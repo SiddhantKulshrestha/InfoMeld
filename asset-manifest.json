@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/SiddhantKulshrestha/InfoMeld/static/css/main.edb5edf3.css",
+    "main.js": "/SiddhantKulshrestha/InfoMeld/static/js/main.27e7b9fe.js",
+    "index.html": "/SiddhantKulshrestha/InfoMeld/index.html",
+    "main.edb5edf3.css.map": "/SiddhantKulshrestha/InfoMeld/static/css/main.edb5edf3.css.map",
+    "main.27e7b9fe.js.map": "/SiddhantKulshrestha/InfoMeld/static/js/main.27e7b9fe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.edb5edf3.css",
+    "static/js/main.27e7b9fe.js"
+  ]
+}
